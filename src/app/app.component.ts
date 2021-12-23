@@ -6,4 +6,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
+
+  ngOnInit() {
+    const script = document.createElement('script');
+    script.src = 'http://localhost:8080/produtos/main.js';
+    document.body.appendChild(script);
+
+    const script2 = document.createElement('script');
+    script2.src = 'http://localhost:8080/contato/main.js';
+    document.body.appendChild(script2);
+  }
+
 }
