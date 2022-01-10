@@ -4,7 +4,7 @@ Desenvolvi um micro front-end com a finalidade de prática e estudo.
 
 A aplicação está dividida em 3 partes, um app master e um projeto com dois micros apps que são consumidos no app master.
 
-O projeto não tem nenhum conteúdo específico, a ideia era criar os projetos e navegar entre eles usando micro front ends usando a técnica de Angular Elements, por este motivo a aplicação não tem conteúdo algum =)
+O projeto não tem nenhum conteúdo específico, a ideia era criar dois menus e navegar entre eles usando micro front ends com a técnica de Angular Elements, por este motivo a aplicação não tem conteúdo algum =)
 
 Estou aberto a sugestões e melhorias, é um ponta pé inicial e sei que preciso me preocupar com muitas outras coisas, e esse vai ser o foco daqui para frente.
 
